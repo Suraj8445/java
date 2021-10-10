@@ -1,0 +1,7 @@
+public class test {
+    public static void main (String[] args){
+        int m=6 , n=6;
+        int c = m+n;
+        System.out.println("sum="+c);
+    }
+}
